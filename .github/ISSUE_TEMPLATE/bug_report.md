@@ -9,7 +9,7 @@ assignees: ''
 
 Four considerations:
  - Please do not open bug reports to ask questions. Use the Discussions feature instead.
- - Please make sure the issue only pertains to Jellyfin Desktop. If it also occurs in the web client, send the issue to jellyfin-web instead.
+ - Please make sure the issue open only pertains to Jellyfin Desktop. If it also occurs in the web client, send the issue to jellyfin-web instead.
  - Please make sure that your issue is not being caused by errors in custom CSS or note that you are using custom CSS.
      - Notably, there have been instances of custom CSS breaking TV mode.
      - You can disable custom CSS under Display in the user settings.
